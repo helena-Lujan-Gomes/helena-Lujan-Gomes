@@ -80,3 +80,14 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=helena-Lujan-Gomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helena-Lujan-Gomes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+##
+
+<h2> ✒️ 📖 Projetos realizados durante os cursos: </h2>
+<h3>
+   📚 Fundamentos
+   <img  align="center" alt="Helena-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   
+   <img align="center" alt="Helena-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />     
+</h3>
+
+* **[Tela de Login- Dog and Cat](https://helena-lujan-gomes.github.io/Tela-de-Login-Dog-and-Cat/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Tela-de-Login-Dog-and-Cat)
