@@ -1,4 +1,4 @@
-### <h1>Olá! Tudo bem? Sou a Helena Gomes 👋</h1>
+### <h1><strong>Olá! Tudo bem? Sou a Helena Gomes</strong> 👋</h1>
 <hr>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helena-lujan-gomes/)
@@ -34,3 +34,4 @@ Minhas linguagens e tecnologias
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helena-Lujan-Gomes&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
