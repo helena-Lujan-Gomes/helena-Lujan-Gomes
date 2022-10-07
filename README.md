@@ -29,7 +29,7 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
 </p>
 <div>
 <li>💻 Apaixonada por pesquisa e tecnologia</li>
-<li>📚 Cursando Desenvolvimento Web - DevMedia</li>
+<li>📚 Cursando Desenvolvimento Web - DevMedia. Autodidata - Estudonauta, Origamid e Udemy</li>
 <li>🐶 Amo animais</li>
 <li>👩 Pronomes: Ela/Dela</li>
 <li>📫 lujanhelena@gmail.com</li>
