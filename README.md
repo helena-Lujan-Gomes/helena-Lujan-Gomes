@@ -13,7 +13,7 @@
 <br>
 
 <div>
-  <img align="right" src="https://user-images.githubusercontent.com/94927107/194601794-fd701719-3d17-4a41-beb1-78cae5e679a4.jpg" alt="Imagem Helena Gomes" width="250px">
+  <img align="right" src="https://user-images.githubusercontent.com/94927107/194601794-fd701719-3d17-4a41-beb1-78cae5e679a4.jpg" alt="Imagem Helena Gomes" width="230px">
 </div>
 
 
