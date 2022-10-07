@@ -18,9 +18,9 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
 <li>💻 Apaixonada por pesquisa e tecnologia</li>
 <li>📚 Cursando Desenvolvimento Web - DevMedia</li>
 <li>🐶 Amo animais</li>
-<li>👩 Ela/Dela</li>
+<li>👩 Pronomes: Ela/Dela</li>
 <li>📫 lujanhelena@gmail.com</li>
-<li>📍 Uberlândia - MG </li>
+<li>📍 Uberlândia, Minas Gerais, Brasil</li>
 
 </div>
 <br>
