@@ -17,13 +17,14 @@
 </div>
 
 
-<div>
+<div align="justify">
 <p>
 🎓
 Médica Veterinária graduada pela Universidade Federal de Uberlândia. Atualmente estou em transição de carreira para Desenvolvimento de Software!
 Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
 
 🚀Adoro estudar e estar em constante aprendizado é algo que me motiva diariamente! 
+</div>
 
 </p>
 <div>
@@ -34,22 +35,42 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
 <li>📫 lujanhelena@gmail.com</li>
 <li>📍 Uberlândia, Minas Gerais, Brasil</li>
 </div>
- 
-
 <br>
-<h2 style="text-align:center">
-Minhas linguagens e tecnologias
-</h2>
-<hr>
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 
-<div>
-  <a href="https://github.com/helena-Lujan-Gomes">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=helena-Lujan-Gomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helena-Lujan-Gomes&layout=compact&langs_count=7&theme=dracula"/>
+<h2 align="center"> Minhas linguagens e tecnologias </h2>
+<table>
+<tr>
+  <th>Linguagens</th>
+  <th>Frontend</th>
+  <th>Versionamento & Deploy</th>
+  <th>Ferramentas</th>
+  <th>Outros</th>
+</tr>
+<tr>
+  <td align="center" >
+    <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  </td>
+  <td align="center" >
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
+  </td>
+  <td align="center" >
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  </td>
+  <td align="center" >
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+    <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF.svg?style=for-the-badge&logo=Zoom&logoColor=white">
+    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+  </td>
+  <td align="center" >
+    <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white"> 
+    <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=for-the-badge&logo=Google-Drive&logoColor=white">  
+  </td>
+</tr>
+</table>
 </div>
-
-
+               
+##
