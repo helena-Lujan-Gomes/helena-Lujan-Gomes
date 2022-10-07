@@ -40,4 +40,3 @@ Minhas linguagens e tecnologias
 </div>
 
 
-![Snake animation](https://github.com/helena-Lujan-Gomes/helena-Lujan-Gomes/blob/output/github-contribution-grid-snake.svg)
