@@ -9,6 +9,7 @@
   <a href="https://api.whatsapp.com/send?phone=5517991165345" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://t.me/HelenaLujan" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.instagram.com/lujanhelena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/aEgu4KM8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 <br>
 
@@ -91,3 +92,7 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
 </h3>
 
 * **[Tela de Login- Dog and Cat](https://helena-lujan-gomes.github.io/Tela-de-Login-Dog-and-Cat/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Tela-de-Login-Dog-and-Cat)
+
+##
+
+![Snake animation](https://github.com/helena-Lujan-Gomes/helena-Lujan-Gomes/blob/output/github-contribution-grid-snake.svg)
