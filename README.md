@@ -33,9 +33,11 @@ Minhas linguagens e tecnologias
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 
-
 <div>
   <a href="https://github.com/helena-Lujan-Gomes">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=helena-Lujan-Gomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helena-Lujan-Gomes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
+![Snake animation](https://github.com/helena-Lujan-Gomes/helena-Lujan-Gomes/blob/output/github-contribution-grid-snake.svg)
