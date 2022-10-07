@@ -95,4 +95,4 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
 
 ##
 
-![Snake animation](https://github.com/helena-Lujan-Gomes/helena-Lujan-Gomes/blob/output/github-contribution-grid-snake.svg)
+
