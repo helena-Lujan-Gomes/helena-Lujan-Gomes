@@ -13,6 +13,11 @@
 <br>
 
 <div>
+  <img align="right" src="https://user-images.githubusercontent.com/94927107/194601794-fd701719-3d17-4a41-beb1-78cae5e679a4.jpg" alt="Imagem Helena Gomes" width="250px">
+</div>
+
+
+<div>
 <p>
 🎓
 Médica Veterinária graduada pela Universidade Federal de Uberlândia. Atualmente estou em transição de carreira para Desenvolvimento de Software!
@@ -28,8 +33,9 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
 <li>👩 Pronomes: Ela/Dela</li>
 <li>📫 lujanhelena@gmail.com</li>
 <li>📍 Uberlândia, Minas Gerais, Brasil</li>
-
 </div>
+ 
+
 <br>
 <h2 style="text-align:center">
 Minhas linguagens e tecnologias
