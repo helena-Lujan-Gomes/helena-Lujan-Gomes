@@ -95,5 +95,7 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
 * **[Login e Cadastro](https://helena-lujan-gomes.github.io/Login-e-Cadastro/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Login-e-Cadastro)
 * **[Login- Aprender a Programar](https://helena-lujan-gomes.github.io/Login-Aprender-a-Programar/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Login-Aprender-a-Programar)
 ##
+  
+  ![Snake animation](https://github.com/helena-Lujan-Gomes/helena-Lujan-Gomes/blob/output/github-contribution-grid-snake.svg)
 
 
