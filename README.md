@@ -14,7 +14,7 @@
 <br>
 
 <div>
-  <img align="right" src="https://user-images.githubusercontent.com/94927107/194601794-fd701719-3d17-4a41-beb1-78cae5e679a4.jpg" alt="Imagem Helena Gomes" width="230px">
+  <img align="right" src="https://user-images.githubusercontent.com/94927107/196063065-e1dbe080-6e17-4a0a-aa9e-38b8ea9e74c1.jpg" alt="Imagem Helena Gomes" width="230px">
 </div>
 
 
