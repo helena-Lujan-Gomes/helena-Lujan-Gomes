@@ -94,7 +94,7 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
 * **[Tela de Login- Dog and Cat](https://helena-lujan-gomes.github.io/Tela-de-Login-Dog-and-Cat/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Tela-de-Login-Dog-and-Cat)
 * **[Login e Cadastro](https://helena-lujan-gomes.github.io/Login-e-Cadastro/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Login-e-Cadastro)
 * **[Projeto - Curiosidades da Tecnologia](https://helena-lujan-gomes.github.io/Projeto-Curiosidades-da-Tecnologia/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Projeto-Curiosidades-da-Tecnologia)
-* **[Página Inicial- Instagram](https://helena-lujan-gomes.github.io/Projeto-Curiosidades-da-Tecnologia/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Pagina-Inicial-do-Instagram)
+* **[Página Inicial- Instagram](https://helena-lujan-gomes.github.io/Pagina-Inicial-do-Instagram/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Pagina-Inicial-do-Instagram)
 ##
   
   ![Snake animation](https://github.com/helena-Lujan-Gomes/helena-Lujan-Gomes/blob/output/github-contribution-grid-snake.svg)
