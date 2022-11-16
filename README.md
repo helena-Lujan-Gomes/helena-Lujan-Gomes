@@ -47,6 +47,7 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
   <th>Frontend</th>
   <th>Versionamento & Deploy</th>
   <th>Ferramentas</th>
+  <th>Programação</th>
   <th>Outros</th>
 </tr>
 <tr>
@@ -70,6 +71,12 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
     <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   </td>
   <td align="center" >
+    <img alt="CodePen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+    <img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </td>
+   <td align="center" >
     <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white">
     <img alt="Power Bi" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
     <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=for-the-badge&logo=Google-Drive&logoColor=white">
