@@ -88,7 +88,8 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
 <h3>
    📚 Fundamentos
    <img  align="center" alt="Helena-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   
-   <img align="center" alt="Helena-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />     
+   <img align="center" alt="Helena-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img align="center" alt="Helena-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </h3>
 
 * **[Tela de Login- Dog and Cat](https://helena-lujan-gomes.github.io/Tela-de-Login-Dog-and-Cat/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Tela-de-Login-Dog-and-Cat)
