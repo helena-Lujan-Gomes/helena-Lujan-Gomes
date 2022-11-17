@@ -109,6 +109,7 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
 * **[Projeto - Curiosidades da Tecnologia](https://helena-lujan-gomes.github.io/Projeto-Curiosidades-da-Tecnologia/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Projeto-Curiosidades-da-Tecnologia)
 * **[Página Inicial- Instagram](https://helena-lujan-gomes.github.io/Pagina-Inicial-do-Instagram/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Pagina-Inicial-do-Instagram)
 * **[Cálculo - IMC](https://helena-lujan-gomes.github.io/Calculo-IMC/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Calculo-IMC)
+* **[Cordel Moderno](https://helena-lujan-gomes.github.io/projeto-cordel-moderno/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-cordel-moderno)
 ##
   
   ![Snake animation](https://github.com/helena-Lujan-Gomes/helena-Lujan-Gomes/blob/output/github-contribution-grid-snake.svg)
