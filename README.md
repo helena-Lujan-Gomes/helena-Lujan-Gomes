@@ -90,13 +90,13 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
 
 <div align="center">
     <a href="https://github.com/helena-Lujan-Gomes">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=helena-Lujan-Gomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helena-Lujan-Gomes&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=helena-Lujan-Gomes&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helena-Lujan-Gomes&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 ##
 
-<h2> ✒️ 📖 Veja abaixo alguns dos Projetos realizados durante os cursos e os treinos: </h2>
+<h2> ✒️ 📖 💻 Veja abaixo alguns dos Projetos realizados durante os cursos e os treinos: </h2>
 <h3>
    📚 Fundamentos
    <img  align="center" alt="Helena-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   
@@ -113,6 +113,12 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
 * **[Formulário - CSS3](https://helena-lujan-gomes.github.io/Formulario-css3/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Formulario-responsivo-css3)
 * **[Projeto - Prática Flexbox](https://helena-lujan-gomes.github.io/projeto-flexbox/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-flexbox)
 ##
+  
+##
+
+<h2> 👁‍🗨🧐📁 Veja também os meus Repositórios: </h2>
+  
+  * **[Clique Aqui!](https://github.com/helena-Lujan-Gomes?tab=repositories)** 
   
   ![Snake animation](https://github.com/helena-Lujan-Gomes/helena-Lujan-Gomes/blob/output/github-contribution-grid-snake.svg)
 
