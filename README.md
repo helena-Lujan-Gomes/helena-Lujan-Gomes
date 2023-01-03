@@ -115,7 +115,7 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
 ##
   
 
-<h2> 👁‍🗨🧐📁 Veja também os meus Repositórios: </h2>
+<h2> 👁‍🧐📁 Veja também os meus Repositórios: </h2>
   
   * **[Clique Aqui!](https://github.com/helena-Lujan-Gomes?tab=repositories)** 
   
