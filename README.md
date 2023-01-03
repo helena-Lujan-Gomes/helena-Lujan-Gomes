@@ -96,7 +96,7 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
 
 ##
 
-<h2> ✒️ 📖 Projetos realizados durante os cursos e os treinos: </h2>
+<h2> ✒️ 📖 Veja abaixo alguns dos Projetos realizados durante os cursos e os treinos: </h2>
 <h3>
    📚 Fundamentos
    <img  align="center" alt="Helena-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   
