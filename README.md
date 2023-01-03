@@ -114,7 +114,6 @@ Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
 * **[Projeto - Prática Flexbox](https://helena-lujan-gomes.github.io/projeto-flexbox/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-flexbox)
 ##
   
-##
 
 <h2> 👁‍🗨🧐📁 Veja também os meus Repositórios: </h2>
   
