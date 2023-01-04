@@ -24,7 +24,7 @@
 Médica Veterinária graduada pela Universidade Federal de Uberlândia. Atualmente estou em transição de carreira para Desenvolvimento de Software!
 Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
 
-🚀Adoro estudar e estar em constante aprendizado é algo que me motiva diariamente! 
+🚀⚡ Adoro desafios e estar em constante aprendizado é algo que me motiva diariamente! 
 </div>
 
 </p>
