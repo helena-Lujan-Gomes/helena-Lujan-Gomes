@@ -83,8 +83,8 @@
 
 <div align="center">
     <a href="https://github.com/helena-Lujan-Gomes">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=helena-Lujan-Gomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helena-Lujan-Gomes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=helena-Lujan-Gomes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helena-Lujan-Gomes&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 ##
@@ -112,6 +112,6 @@
   
   * **[Clique Aqui!](https://github.com/helena-Lujan-Gomes?tab=repositories)** 
   
-  ![snake gif](https://github.com/helena-Lujan-Gomes/helena-Lujan-Gomes/blob/output/github-contribution-grid-snake.svg)
-  
+  ![Snake animation](https://github.com/helena-Lujan-Gomes/helena-Lujan-Gomes/blob/output/github-contribution-grid-snake.svg)
+ 
   
