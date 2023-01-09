@@ -18,19 +18,12 @@
 </div>
 
 
-<div align="justify">
-<p>
-🎓
-Médica Veterinária graduada pela Universidade Federal de Uberlândia. Atualmente estou em transição de carreira para Desenvolvimento de Software!
-Estudo Desenvolvimento Full Stack na DevMedia e estou nos módulos Front-end.
-
-🚀⚡ Adoro desafios e aprender coisas novas é o que me renova a cada dia!
-</div>
-
-</p>
 <div>
+<li>🎓 Médica Veterinária graduada pela Universidade Federal de Uberlândia</li>
+<li>🎓 Cursando Desenvolvimento Full Stack na <a href="https://www.devmedia.com.br/carreira-programador/?slug=novo">Devmedia</a></li> 
+<li>🌱 Autodidata Complementar - Desenvolvimento Full Stack / Web Desing - <a href="https://www.estudonauta.com/cursos/">Estudonauta</a> e <a href="https://www.origamid.com/cursos/">Origamid</a></li> 
+<li>🔥 Desenvolvedora Front-end : HTML5, CSS3, SASS, JavaScript, VueJS, ReactJS</li>
 <li>💻 Apaixonada por pesquisa e tecnologia</li>
-<li>🌱Cursando Desenvolvimento Web - DevMedia. 📚 Autodidata - Estudonauta e Origamid</li>
 <li>🐶 Amo animais</li>
 <li>🎮 Hobbies: Música, leitura, filmes e séries, praia, mergulho, trilhas e camping</li>
 <li>👩 Pronomes: Ela/Dela</li>
