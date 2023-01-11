@@ -14,7 +14,7 @@
 
 <div align="justify">
 
-  <img align="right" src="https://user-images.githubusercontent.com/94927107/196063065-e1dbe080-6e17-4a0a-aa9e-38b8ea9e74c1.jpg" alt="Imagem Helena Gomes" width="180px">
+  <img align="right" src="https://user-images.githubusercontent.com/94927107/196063065-e1dbe080-6e17-4a0a-aa9e-38b8ea9e74c1.jpg" alt="Imagem Helena Gomes" width="170px">
   
   Amo animais, café, pesquisa e tudo relacionado a tecnologia e inovação.
 
