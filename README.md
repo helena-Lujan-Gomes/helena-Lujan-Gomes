@@ -14,18 +14,18 @@
 
 <div align="justify">
 
-<img align="right" src="https://user-images.githubusercontent.com/94927107/196063065-e1dbe080-6e17-4a0a-aa9e-38b8ea9e74c1.jpg" alt="Imagem Helena Gomes" width="190px">
-
-<li>🎓 Médica Veterinária graduada pela Universidade Federal de Uberlândia</li>
-<li>🎓 Cursando Desenvolvimento Full Stack na <a href="https://www.devmedia.com.br/" target="_blank">Devmedia</a></li> 
-<li>🌱 Autodidata Complementar - Desenvolvimento Full Stack - <a href="https://www.estudonauta.com/matricula/?gclid=CjwKCAiAk--dBhABEiwAchIwke1QX2UhCgk-imwiHXBuZ7wHczCJWQJe8V7vd9E5LUovlUM6EY9yfBoCF7oQAvD_BwE#tabela" target="_blank">Estudonauta</a> e <a href="https://www.origamid.com/cursos/" target="_blank">Origamid</a></li> 
-<li>🚀 Adoro desafios e aprender coisas novas é o que me renova a cada dia</li>
-<li>💻 Apaixonada por pesquisa e tecnologia</li>
-<li>🐶 Amo animais</li>
-<li>🎮 Hobbies: Música, leitura, filmes e séries, praia, mergulho, trilhas e camping</li>
-<li>👩 Pronomes: Ela/Dela</li>
-<li>📫 lujanhelena@gmail.com</li>
-<li>📍 São Paulo, SP, Brasil</li>
+ <img align="right" src="https://user-images.githubusercontent.com/94927107/196063065-e1dbe080-6e17-4a0a-aa9e-38b8ea9e74c1.jpg" alt="Imagem Helena Gomes" width="190px">
+  
+ <li>🎓 Médica Veterinária graduada pela Universidade Federal de Uberlândia</li>
+ <li>🎓 Cursando Desenvolvimento Full Stack na <a href="https://www.devmedia.com.br/" target="_blank">Devmedia</a></li> 
+ <li>🌱 Autodidata Complementar - Desenvolvimento Full Stack - <a href="https://www.estudonauta.com/matricula/?gclid=CjwKCAiAk--dBhABEiwAchIwke1QX2UhCgk-imwiHXBuZ7wHczCJWQJe8V7vd9E5LUovlUM6EY9yfBoCF7oQAvD_BwE#tabela" target="_blank">Estudonauta</a> e <a href="https://www.origamid.com/cursos/" target="_blank">Origamid</a></li> 
+ <li>🚀 Adoro desafios e aprender coisas novas é o que me renova a cada dia! </li>
+ <li>💻 Apaixonada por pesquisa e tecnologia</li>
+ <li>🐶 Amo animais</li>
+ <li>🎮 Hobbies: Música, leitura, filmes e séries, praia, mergulho, trilhas e camping</li>
+ <li>👩 Pronomes: Ela/Dela</li>
+ <li>📫 lujanhelena@gmail.com</li>
+ <li>📍 São Paulo, SP, Brasil</li>
 
 </div>
 
