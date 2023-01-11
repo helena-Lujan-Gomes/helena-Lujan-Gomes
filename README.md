@@ -18,7 +18,7 @@
   
   Amo animais, café, pesquisa e tudo relacionado a tecnologia e inovação.
 
-  Estou realizando vários projetos durante a jornada na <a href="https://www.devmedia.com.br/" target="_blank">Devmedia</a> onde estudo Desenvolvimento Full Stack e atualmente estou nos Módulos Front-end. Na Devmedia aprendemos com uma metodologia ativa, aplicando o conhecimento em projetos na prática ao longo processo.
+  Estou realizando vários projetos durante a jornada na <a href="https://www.devmedia.com.br/" target="_blank">Devmedia</a> onde estudo Desenvolvimento Full Stack e atualmente estou nos Módulos Front-end. Na Devmedia aprendemos com uma metodologia ativa, aplicando o conhecimento em projetos na prática ao longo do processo.
 
  Adoro desafios e aprender coisas novas é o que me motiva!
 
