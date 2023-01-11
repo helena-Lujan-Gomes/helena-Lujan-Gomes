@@ -24,7 +24,7 @@
 
 </div>
 
-- 🚀 Autodidata Complementar - Plataformas - <a href="https://www.estudonauta.com/matricula/?gclid=CjwKCAiAk--dBhABEiwAchIwke1QX2UhCgk-imwiHXBuZ7wHczCJWQJe8V7vd9E5LUovlUM6EY9yfBoCF7oQAvD_BwE#tabela" target="_blank">Estudonauta</a> e <a href="https://www.origamid.com/cursos/" target="_blank">Origamid</a>
+- 🚀 Autodidata Complementar - Cursos nas Plataformas <a href="https://www.estudonauta.com/matricula/?gclid=CjwKCAiAk--dBhABEiwAchIwke1QX2UhCgk-imwiHXBuZ7wHczCJWQJe8V7vd9E5LUovlUM6EY9yfBoCF7oQAvD_BwE#tabela" target="_blank">Estudonauta</a> e <a href="https://www.origamid.com/cursos/" target="_blank">Origamid</a>
 - 🎓 Cursando Desenvolvimento Full Stack pela <a href="https://www.devmedia.com.br/" target="_blank">Devmedia</a>
 - 🎓 Médica Veterinária graduada pela Universidade Federal de Uberlândia
 
