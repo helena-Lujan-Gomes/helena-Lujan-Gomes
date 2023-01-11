@@ -1,4 +1,4 @@
-<div align="center"><h1> Olá! Tudo bem? Seja bem-vindo(a) ao meu GitHub!<br>Sou a Helena Gomes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1></div>
+<div align="center"><h1> Olá! Sou a Helena Gomes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1></div>
 
 
 <!-- Contato -->
