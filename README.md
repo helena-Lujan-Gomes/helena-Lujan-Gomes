@@ -14,7 +14,7 @@
 
 <div align="justify">
 
-  <img align="right" src="https://user-images.githubusercontent.com/94927107/196063065-e1dbe080-6e17-4a0a-aa9e-38b8ea9e74c1.jpg" alt="Imagem Helena Gomes" width="170px">
+  <img align="right" src="https://user-images.githubusercontent.com/94927107/196063065-e1dbe080-6e17-4a0a-aa9e-38b8ea9e74c1.jpg" alt="Imagem Helena Gomes" width="200px" height="270px">
   
   Amo animais, café, pesquisa e tudo relacionado a tecnologia e inovação.
 
@@ -27,6 +27,9 @@
 - 🚀 Autodidata Complementar - Cursos técnicos nas Plataformas <a href="https://www.estudonauta.com/matricula/?gclid=CjwKCAiAk--dBhABEiwAchIwke1QX2UhCgk-imwiHXBuZ7wHczCJWQJe8V7vd9E5LUovlUM6EY9yfBoCF7oQAvD_BwE#tabela" target="_blank">Estudonauta</a> e <a href="https://www.origamid.com/cursos/" target="_blank">Origamid</a>
 - 🎓 Cursando Desenvolvimento Full Stack pela <a href="https://www.devmedia.com.br/" target="_blank">Devmedia</a>
 - 🎓 Médica Veterinária graduada pela Universidade Federal de Uberlândia
+- 🎮 Hobbies: Música, leitura, filmes e séries, praia, mergulho, trilhas e camping
+- 📫 lujanhelena@gmail.com
+
 
 ##
 
