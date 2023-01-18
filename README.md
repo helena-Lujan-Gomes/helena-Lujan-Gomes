@@ -108,7 +108,8 @@
 * **[Cordel Moderno](https://helena-lujan-gomes.github.io/projeto-cordel-moderno/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-cordel-moderno)
 * **[Formulário - CSS3](https://helena-lujan-gomes.github.io/Formulario-css3/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Formulario-responsivo-css3)
 * **[Projeto - Cards Dev - Media Queries](https://helena-lujan-gomes.github.io/projeto-cards-dev-media-queries/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-cards-dev-media-queries)
-* **[Projeto - Prática Flexbox](https://helena-lujan-gomes.github.io/projeto-flexbox/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-flexbox)
+* **[Projeto - Pousada Secreta](https://helena-lujan-gomes.github.io/projeto-pousada-secreta/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-pousada-secreta)
+* **[Projeto - Flexbox](https://helena-lujan-gomes.github.io/projeto-flexbox/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-flexbox)
 ##
   
 
