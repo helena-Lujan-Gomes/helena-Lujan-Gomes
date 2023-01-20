@@ -109,6 +109,7 @@
 * **[Projeto - NFT Card Component](https://helena-lujan-gomes.github.io/nft-preview-card-component/)** - [Repositório](https://github.com/helena-Lujan-Gomes/nft-preview-card-component)
 * **[Projeto - Cards Dev - Media Queries](https://helena-lujan-gomes.github.io/projeto-cards-dev-media-queries/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-cards-dev-media-queries)
 * **[Projeto - Pokémons - Box Model](https://helena-lujan-gomes.github.io/projeto-pokemons/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-pokemons)
+* **[Projeto - Paraty City - Pseudo-classes - Pseudo-elementos](https://helena-lujan-gomes.github.io/projeto-paraty-city/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-paraty-city)
 * **[Projeto - Pousada Secreta](https://helena-lujan-gomes.github.io/projeto-pousada-secreta/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-pousada-secreta)
 * **[Projeto - Flexbox](https://helena-lujan-gomes.github.io/projeto-flexbox/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-flexbox)
 * **[Cálculo - IMC](https://helena-lujan-gomes.github.io/Calculo-IMC/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Calculo-IMC)
