@@ -108,6 +108,7 @@
 * **[Formulário - CSS3](https://helena-lujan-gomes.github.io/Formulario-css3/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Formulario-responsivo-css3)
 * **[Projeto - NFT Card Component](https://helena-lujan-gomes.github.io/nft-preview-card-component/)** - [Repositório](https://github.com/helena-Lujan-Gomes/nft-preview-card-component)
 * **[Projeto - Cards Dev - Media Queries](https://helena-lujan-gomes.github.io/projeto-cards-dev-media-queries/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-cards-dev-media-queries)
+* **[Projeto - Pokémons - Box Model](https://helena-lujan-gomes.github.io/projeto-pokemons/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-pokemons)
 * **[Projeto - Pousada Secreta](https://helena-lujan-gomes.github.io/projeto-pousada-secreta/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-pousada-secreta)
 * **[Projeto - Flexbox](https://helena-lujan-gomes.github.io/projeto-flexbox/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-flexbox)
 * **[Cálculo - IMC](https://helena-lujan-gomes.github.io/Calculo-IMC/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Calculo-IMC)
