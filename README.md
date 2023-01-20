@@ -104,12 +104,13 @@
 * **[Login e Cadastro](https://helena-lujan-gomes.github.io/Login-e-Cadastro/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Login-e-Cadastro)
 * **[Projeto - Curiosidades da Tecnologia](https://helena-lujan-gomes.github.io/Projeto-Curiosidades-da-Tecnologia/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Projeto-Curiosidades-da-Tecnologia)
 * **[Página Inicial- Instagram](https://helena-lujan-gomes.github.io/Pagina-Inicial-do-Instagram/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Pagina-Inicial-do-Instagram)
-* **[Cálculo - IMC](https://helena-lujan-gomes.github.io/Calculo-IMC/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Calculo-IMC)
 * **[Cordel Moderno](https://helena-lujan-gomes.github.io/projeto-cordel-moderno/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-cordel-moderno)
 * **[Formulário - CSS3](https://helena-lujan-gomes.github.io/Formulario-css3/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Formulario-responsivo-css3)
+* **[Projeto - NFT Card Component](https://helena-lujan-gomes.github.io/nft-preview-card-component/)** - [Repositório](https://github.com/helena-Lujan-Gomes/nft-preview-card-component)
 * **[Projeto - Cards Dev - Media Queries](https://helena-lujan-gomes.github.io/projeto-cards-dev-media-queries/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-cards-dev-media-queries)
 * **[Projeto - Pousada Secreta](https://helena-lujan-gomes.github.io/projeto-pousada-secreta/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-pousada-secreta)
 * **[Projeto - Flexbox](https://helena-lujan-gomes.github.io/projeto-flexbox/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-flexbox)
+* **[Cálculo - IMC](https://helena-lujan-gomes.github.io/Calculo-IMC/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Calculo-IMC)
 ##
   
 
