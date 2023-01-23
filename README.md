@@ -110,7 +110,8 @@
 * **[Projeto - Cards Dev - Media Queries](https://helena-lujan-gomes.github.io/projeto-cards-dev-media-queries/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-cards-dev-media-queries)
 * **[Projeto - Pokémons - Box Model](https://helena-lujan-gomes.github.io/projeto-pokemons/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-pokemons)
 * **[Projeto - Paraty City - Pseudo-classes - Pseudo-elementos](https://helena-lujan-gomes.github.io/projeto-paraty-city/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-paraty-city)
-* **[Projeto - Pousada Secreta](https://helena-lujan-gomes.github.io/projeto-pousada-secreta/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-pousada-secreta)
+* **[Projeto - Pousada Secreta](https://helena-lujan-gomes.github.io/projeto-pousada-secreta/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-website-para-um-provedor-de-hospedagem)
+* **[Projeto - Website Alfa Tech](https://helena-lujan-gomes.github.io/projeto-website-para-um-provedor-de-hospedagem/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-pousada-secreta)
 * **[Projeto - Flexbox](https://helena-lujan-gomes.github.io/projeto-flexbox/)** - [Repositório](https://github.com/helena-Lujan-Gomes/projeto-flexbox)
 * **[Cálculo - IMC](https://helena-lujan-gomes.github.io/Calculo-IMC/)** - [Repositório](https://github.com/helena-Lujan-Gomes/Calculo-IMC)
 ##
