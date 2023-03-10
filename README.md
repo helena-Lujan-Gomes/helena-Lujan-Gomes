@@ -19,12 +19,15 @@
   Amo animais (sou mamãe de pets❣️), café (bem quentinho☕️) e tudo que tenha relação com tecnologia, pesquisa e inovação💡
 
   Estou realizando vários projetos durante a jornada na <a href="https://www.devmedia.com.br/" target="_blank">Devmedia</a> onde estudo Desenvolvimento Full Stack e atualmente estou nos Módulos Front-end. Na Devmedia aprendemos com uma metodologia ativa, aplicando o conhecimento em projetos na prática ao longo do processo.
+  
+  Estou cursando Engenharia da Computação pela faculdade digital Descomplica
 
   Adoro desafios e aprender coisas novas é o que me motiva!
 
 </div>
 
 - 🚀 Autodidata Complementar - Cursos técnicos nas Plataformas <a href="https://www.estudonauta.com/matricula/?gclid=CjwKCAiAk--dBhABEiwAchIwke1QX2UhCgk-imwiHXBuZ7wHczCJWQJe8V7vd9E5LUovlUM6EY9yfBoCF7oQAvD_BwE#tabela" target="_blank">Estudonauta</a> e <a href="https://www.origamid.com/cursos/" target="_blank">Origamid</a>
+- 🎓 Cursando Engenharia da Computação
 - 🎓 Cursando Desenvolvimento Full Stack pela <a href="https://www.devmedia.com.br/" target="_blank">Devmedia</a>
 - 🎓 Médica Veterinária graduada pela Universidade Federal de Uberlândia
 - 🎮 Hobbies: Games, leitura, música, filmes e séries, praia, mergulho, trilhas e camping
