@@ -16,7 +16,7 @@
 
   <img align="right" src="https://user-images.githubusercontent.com/94927107/196063065-e1dbe080-6e17-4a0a-aa9e-38b8ea9e74c1.jpg" alt="Imagem Helena Gomes" width="190px" height="260px">
   
-  Amo animais (sou mamãe de pets🐾❣️), café (bem quentinho☕️) e tudo que tenha relação com tecnologia, pesquisa e inovação💡
+  Amo animais (sou mamãe de pets🐾❣️), café (bem quentinho☕️) e tudo que tenha relação com tecnologia, produtos, gestão e inovação💡
 
   Estou realizando vários projetos durante a jornada na <a href="https://www.devmedia.com.br/" target="_blank">Devmedia</a> onde estudo Desenvolvimento Full Stack e atualmente estou nos Módulos Front-end. Na Devmedia aprendemos com uma metodologia ativa, aplicando o conhecimento em projetos na prática ao longo do processo.
 
